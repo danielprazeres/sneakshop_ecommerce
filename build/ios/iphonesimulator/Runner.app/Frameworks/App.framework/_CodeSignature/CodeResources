@@ -10,11 +10,11 @@
 		</data>
 		<key>flutter_assets/AssetManifest.bin</key>
 		<data>
-		ME0cAg6cl/bTZmwXEVgMugDccUI=
+		yBTSIMNyulG45cT9r7NuIx6skpw=
 		</data>
 		<key>flutter_assets/AssetManifest.json</key>
 		<data>
-		oG5/OGn+vw7vp/nu5DUDoZJ4nFc=
+		AGEjHT/DP15bNsekMVCkNr3neCU=
 		</data>
 		<key>flutter_assets/FontManifest.json</key>
 		<data>
@@ -34,7 +34,35 @@
 		</data>
 		<key>flutter_assets/kernel_blob.bin</key>
 		<data>
-		9l0RfTr0oY2T03a+JgGRZGrEVa4=
+		1e2iA75UgT+WNXW4UMjaYOjPpWo=
+		</data>
+		<key>flutter_assets/lib/images/Cali%20Court%20Beach%20Days%20Feminino%20Puma.avif</key>
+		<data>
+		PrLdkzX0W+eDKajF37d/VWghHuM=
+		</data>
+		<key>flutter_assets/lib/images/Mayze%20Crashed%20Feminino%20-%20Puma.avif</key>
+		<data>
+		e86uDpEYymV92erFcVshqWfgmMQ=
+		</data>
+		<key>flutter_assets/lib/images/Pacer%20Future%20Trail%20-%20Puma.avif</key>
+		<data>
+		ofy4jWHP3tvCK0PuGLBm1MH95t8=
+		</data>
+		<key>flutter_assets/lib/images/RS-X-3D%20-%20Puma.avif</key>
+		<data>
+		vPtcTjT/rK/Up9nzlUTmXeMV9Nw=
+		</data>
+		<key>flutter_assets/lib/images/RS-Z-Core%20-%20Puma.avif</key>
+		<data>
+		Q7PX9xIQbGJUIMgZ45Jdbp/AnS4=
+		</data>
+		<key>flutter_assets/lib/images/Suede%20Classic%20XXI%20-%20Puma.avif</key>
+		<data>
+		uwYmfQuL0mmVI/0vl8/TiVxCeNc=
+		</data>
+		<key>flutter_assets/lib/images/puma_logo.png</key>
+		<data>
+		k5OtCygr7LGWAYqR/bv2omBT8EM=
 		</data>
 		<key>flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
 		<data>
@@ -55,14 +83,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			AK9VrT1vIYmP534P8JLRoc2lLJQbaGDpko1FyK+MCV0=
+			PiKqXFYJ64VuHArck8IoxyDd97SvqaZFKOguzSNW3lY=
 			</data>
 		</dict>
 		<key>flutter_assets/AssetManifest.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Sps95+7JukayebvM0TLjL1LW1VXXndpKp/O8tOm9ZR8=
+			JVj9MOS7zb9NuGl5b2M1KObTQkEgaTv95JT3mZAhQaA=
 			</data>
 		</dict>
 		<key>flutter_assets/FontManifest.json</key>
@@ -97,7 +125,56 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			FCEp0bgWX8NgBwk1pKR1u/9NTKjEaDfMm+6xYzjRJO4=
+			NPhiVf7mSztCBsDxl4DvzclOCkDBhvPhlrAhxEluo4A=
+			</data>
+		</dict>
+		<key>flutter_assets/lib/images/Cali%20Court%20Beach%20Days%20Feminino%20Puma.avif</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Sa+8PrSn1203ykuY88t8o8VGv+ig2/+mrvPCSCNqITc=
+			</data>
+		</dict>
+		<key>flutter_assets/lib/images/Mayze%20Crashed%20Feminino%20-%20Puma.avif</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			uBwOvkgj5rU0P0ii+GSOnK+TeMOyELOY6/e6l1AN4QA=
+			</data>
+		</dict>
+		<key>flutter_assets/lib/images/Pacer%20Future%20Trail%20-%20Puma.avif</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			PAjhsIa1gAoLV6YHsN9CWw0SsaxpWksIgyqrtNN1QOM=
+			</data>
+		</dict>
+		<key>flutter_assets/lib/images/RS-X-3D%20-%20Puma.avif</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ia0gVQruzEN/O+MS9ZvfUrowcMQdhaNple9i1SEuMvc=
+			</data>
+		</dict>
+		<key>flutter_assets/lib/images/RS-Z-Core%20-%20Puma.avif</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			gtjvctz6dXNp1I8njZi0jFm+A7IP/vv/h0aBzMED1YA=
+			</data>
+		</dict>
+		<key>flutter_assets/lib/images/Suede%20Classic%20XXI%20-%20Puma.avif</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			iSaUxipirE9Z+JzOow1EgtFeGfSJPG/nuyWp0VId28g=
+			</data>
+		</dict>
+		<key>flutter_assets/lib/images/puma_logo.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			LL8CRfVV3LNkZyQtMSBow+g0I2ZjmIpXjzMxGf4cipI=
 			</data>
 		</dict>
 		<key>flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
